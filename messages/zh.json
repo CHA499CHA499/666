@@ -1,52 +1,52 @@
 {
   "Product": {
-    "name": "ScriptCraft",
+    "name": "斑驳",
     "solgan": "创意到剧本，AI全程助力。"
   },
   "LandingPage": {
     "Index": {
-      "title": "ScriptCraft"
+      "title": "斑驳"
     },
     "Hero": {
       "title": "斑驳斑斑点点",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
-      "cta": "开始使用"
+      "description": "一个介于光影、色彩与情感边缘的艺术旅者，它以一种不可捉摸的方式，穿梭于现实与梦境之间。",
+      "cta": "还无用"
     },
     "Features": {
-      "title": "主要功能",
+      "title": "精神的三大转变",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "骆驼",
+        "description": "新生者需要接受训练，承受传统与时代的包袱。"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "狮子",
+        "description": "要成为狮子，就要承担自我，为自己负责。"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "婴孩",
+        "description": "心灵重回原点，怀有无穷想象。"
       },
       "aiTools": {
-        "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "title": "石头",
+        "description": "giggity，giggity~"
       }
     },
     "Testimonials": {
       "title": "用户评价",
       "testimonial1": {
-        "name": "Sarah Johnson",
-        "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "name": "有梦想我曾志豪",
+        "role": "老头",
+        "content": "斑驳简直是一个革命性的工具！他治好了我多年的低血压！"
       },
       "testimonial2": {
-        "name": "Michael Lee",
-        "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "name": "果汁只喝美西螈",
+        "role": "姑娘",
+        "content": "我没资格啊，没资格。"
       },
       "testimonial3": {
-        "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "name": "芝士老铁",
+        "role": "武装直升机",
+        "content": "我AI上了斑驳！请给我他的联系方式好吗。"
       }
     },
     "Header": {
